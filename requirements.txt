@@ -1,0 +1,36 @@
+altair==5.1.2
+arviz==0.16.1
+cycler==0.11.0
+darts==0.24.0
+hydralit_components==1.0.10
+ipypb==0.5.2
+ipython==8.14.0
+matplotlib==3.7.2
+matplotlib_inline==0.1.6
+# numpy==1.23.5
+numpy==1.24.3
+optuna==3.2.0
+orbit_ml==1.1.4.2
+packaging==23.2
+pandas==1.5.3
+plotly==5.14.1
+properscoring==0.1
+pyro_ppl==1.8.5
+pytorch_lightning==2.0.8
+pytz==2023.3
+scikit_learn==1.2.2
+scipy==1.10.1
+seaborn==0.13.0
+# statsforecast==1.4.0
+statsforecast==1.5.0
+statsmodels==0.14.0
+streamlit==1.27.2
+# torch==2.0.1+cu118
+torch==2.0.1
+torchmetrics==0.11.4
+tqdm==4.65.1
+u8darts==0.23.1
+jupyterlab==4.0.7
+openpyxl==3.1.2
+sciencePlots==2.1.0
+neuralforecast==1.6.4
