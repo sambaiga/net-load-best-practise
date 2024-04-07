@@ -183,22 +183,6 @@ def run_backtesting(forecast_len=6,
                 hparams.update({'embed_type': emb_type})
                 hparams.update({'comb_type':comb_type})
                 metrics=bactesting.fit(hparams, autotune=False)
-            
-        
-                    
-    
-   
-    
-    
-  
-    
-       
-    
-
-
-
-                    
-
 
 
        
