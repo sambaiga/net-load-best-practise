@@ -1,6 +1,6 @@
-# Setting the Standard: Best Practices for Benchmarking Net-Load Forecasting Approaches in Low-Voltage Distribution Substations
+# MLP-Based Net-Load Forecasting for LV Distribution Substations: A Comprehensive Examination and Benchmarking with Best Practices
 
-This repository is the official implementation of [Setting the Standard: Best Practices for Benchmarking Net-Load Forecasting Approaches in Low-Voltage Distribution Substationse](). 
+This repository is the official implementation of [MLP-Based Net-Load Forecasting for LV Distribution Substations: A Comprehensive Examination and Benchmarking with Best Practices](). 
 
 
 
